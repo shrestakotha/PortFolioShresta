@@ -1,0 +1,165 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Cormorant+SC:wght@700&family=Josefin+Sans&family=Montserrat:wght@300&family=Red+Hat+Display:wght@300&display=swap');
+body {
+    font-family: 'Red Hat Display', sans-serif;
+}
+.container {
+    padding : 0rem 1rem;
+
+    
+}
+.container-center {
+    max-width: 600px;
+    margin: auto;
+}
+.link {
+    color:#EEA47FFF;
+   
+    border-radius: 0rem;
+    display: inline;
+text-decoration: none;
+padding: 1rem;
+font-size: 1.2rem;
+padding: 0.5rem 1rem;}
+.secondary-link{
+    color: var(--primary-color);
+    border-radius: 00.5rem;
+    background-color: #00538C;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border: 0.5px solid rgb(19, 18, 18);
+}
+hr {
+    margin: 3rem;
+}
+/** look into BEM naming convention for css **/
+/** lists **/
+.non-bullet{
+    list-style: none;
+}
+.list inline{
+    display: inline;
+    padding-left: 0rem 0.5rem;
+    
+}
+.unordered{
+    text-align: right;
+    
+   
+}
+.navigation{
+    background-color:#00538CFF;
+    ;
+    /**border-radius: 00.5rem;**/
+    padding: 2rem;
+    border-bottom-left-radius: 1rem;
+    
+}
+.nav-brand{
+    color:#EEA47FFF;
+    font-size: 1.7rem;
+}
+
+.hero{
+    
+    margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 600px;
+}
+.hero-image{
+    max-width: 250px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+.section h2 h3{
+    text-align: center;
+    margin: auto;
+
+}
+.section {
+    
+    text-align: center;
+    padding: 3rem;;
+    margin: auto;
+    
+    border-radius: 0.5rem;
+    margin-left:5rem;
+    margin-right: 5rem;
+    
+
+    
+}
+.section1{
+    
+    text-align:center;
+    display: block;
+    background-color:#EEA47FFF;
+    margin-left:5rem;
+    margin-right: 5rem;
+    border-radius: 0.5rem;
+    
+     
+}
+.text h3{
+    text-align: center;
+}
+.display{
+    display: inline;
+    
+    
+padding: 1rem
+
+}
+.text-design{
+    color:#00538C;
+    text-align: center;
+}
+.footer-edit{
+    margin-top: 1rem;
+    border-bottom-right-radius: 1rem
+}
+.box-deco{
+    text-decoration: none;
+    background-color:#00538C ;
+    border-radius: 00.5rem;
+    padding: 0.5rem;
+    color:#EEA47FFF;
+}
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 600px;
+    margin: auto;
+}
+.padding{
+    padding: 2rem;
+}
+.box-deco1{
+    margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 600px;
+    text-align: center;
+
+}
+.section2{
+    
+    text-align: center;
+    padding: 0.5rem;
+    display: block;
+    background-color:#EEA47FFF;
+    padding: 3rem
+    
+    
+}
+.social{
+    list-style: none;
+    display: inline;
+    margin: 0.5rem;}
+.links{
+    color:#EEA47F;
+}
