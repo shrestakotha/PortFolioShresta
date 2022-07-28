@@ -8,6 +8,11 @@ body {
 
     
 }
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
 .container-center {
     max-width: 600px;
     margin: auto;
@@ -146,6 +151,7 @@ padding: 1rem
     text-align: center;
 
 }
+
 .section2{
     
     text-align: center;
