@@ -210,3 +210,8 @@ hr {
     display: block;
   }
 }
+.sectionme{
+  text-align: center;
+  padding-bottom: 0.5rem;
+  padding-top: 0rem;
+}
